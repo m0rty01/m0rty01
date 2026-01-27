@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [ravijha.co](ravijha.co)
 
-- 📝 I regularly write articles on [ravijha.co/blog](ravijha.co/blog)
-
 - 💬 Ask me about **Javascript, reactJS, nodeJS**
 
 - 📫 How to reach me **ravijha01.97@gmail.com**
