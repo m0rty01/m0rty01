@@ -1,4 +1,4 @@
-- reach me @ **ravijha01.97@gmail.com**
+reach me @ **ravijha01.97@gmail.com**
 
 <p align="left">
 <a href="https://twitter.com/m0rty01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0rty01" height="30" width="40" /></a>
