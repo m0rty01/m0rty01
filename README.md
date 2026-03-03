@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Jha</h1>
-<h3 align="center">A deligient full stack developer</h3>
-
-- 👨‍💻 All of my projects are available at [ravijha.co](ravijha.co)
-
-- 💬 Ask me about **Javascript, reactJS, nodeJS**
-
-- 📫 How to reach me **ravijha01.97@gmail.com**
+- reach me @ **ravijha01.97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
