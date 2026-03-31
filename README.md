@@ -1,4 +1,4 @@
-contact \n
+contact
 **ravijha01.97@gmail.com**
 
 <p align="left">
